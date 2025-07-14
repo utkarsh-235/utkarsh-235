@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Utkarsh and I'm a passionate developer, from India 🇮🇳 ....</h2>
+<h2 align="left">Hi 👋! My name is Utkarsh and I'm a passionate developer, from India 🇮🇳</h2>
 
 ###
 
